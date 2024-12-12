@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
+* ⭐ **[animesuge](https://animesuge.com.in/)** - Movies / TV / Anime / Auto-Next /
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
