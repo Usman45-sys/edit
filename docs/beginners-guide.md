@@ -44,7 +44,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 ***
 
 ### Anime 
-
+* ⭐ **[animesuge](https://animesuge.com.in/)** - Movies / TV / Anime / Auto-Next /
 * **Streaming: [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/) / [Kuroiru](https://kuroiru.co/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Miru](https://miru.watch/)**
