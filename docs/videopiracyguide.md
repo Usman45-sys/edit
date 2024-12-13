@@ -7,7 +7,7 @@
 # ► Streaming Sites
 
 ## ▷ Multi Server
-
+* ⭐ **[animesuge](https://animesuge.com.in/)** - Movies / TV / Anime / Auto-Next /
 * ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
@@ -129,7 +129,7 @@
 ***
 
 ## ▷ Anime Streaming
-
+* ⭐ **[animesuge](https://animesuge.com.in/)** - Movies / TV / Anime / Auto-Next /
 * 🌐 **[Wotaku](https://wotaku.wiki/websites)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Streaming Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Anime Streaming Index / [Discord](https://discord.gg/GuueaDgKdS)
